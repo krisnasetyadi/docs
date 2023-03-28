@@ -17,7 +17,7 @@ export default function RootLayout({
       'bg-white text-slate-900 antialiased',
        inter.className
     )}>
-      <body className='main-h-screen bg-slate-50 dark:bg-slate-900 antialiased'>
+      <body className='h-screen bg-slate-50 dark:bg-slate-900 antialiased'>
         <Providers>
          {children}
          <Toaster position="bottom-right" />
