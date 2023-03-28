@@ -25,5 +25,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
  
  ## Visual
 
-![alt text]('https://github.com/krisnasetyadi/similarity/blob/main/public/similarity.png')
+<!-- ![alt text]('https://github.com/krisnasetyadi/similarity/blob/main/public/similarity.png') -->
+![Screenshot](similarity.png)
 
