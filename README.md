@@ -21,4 +21,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-![alt text]('https://github.com/krisnasetyadi/similarity/blob/main/public/similarity.png')
+## Visual
+
+![alt text]('https://github.com/krisnasetyadi/similarity/blob/main/public/similarity.png?raw=true')
