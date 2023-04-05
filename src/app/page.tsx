@@ -19,14 +19,13 @@ export default function Home() {
     <div className='container pt-32 max-w-7xl mx-auto w-full h-full'>
       <div className='h-full gap-6 flex flex-col justify-start lg:justify-center items-center lg:items-start '>
         <LargeHeading size="lg" className='three-d text-black dark:text-light-gold' >
-          Easily determine <br/> text similarity
+          My Next JS <br/> Documents
         </LargeHeading>
 
         <Paragraph className='max-w-xl lg:text-left'>
-          With the text similarity API, you can easily determine the similarity
-          between two pieces of text with a free{' '}
+          This document containt reusable components with{' '}
           <Link href="/login" className='underline underlinee-offset-2 text-black dark:text-light-gold'>
-            API key
+            Typescript
           </Link>
         </Paragraph>
         <div className='relative w-full max-w-lg lg:max-w-3xl lg:left-1/2 aspect-square lg:absolute'>

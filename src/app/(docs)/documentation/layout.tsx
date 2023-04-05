@@ -1,6 +1,3 @@
-import { FC } from "react";
-
-interface layoutProps {}
 
 function Layout ({children}: {children: React.ReactNode})  {
     return (
