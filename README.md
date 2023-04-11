@@ -1,6 +1,7 @@
 ## Similarity
 
 Tech Stack:
+- Next JS
 - TailwindCSS
 - Material UI
 - Next Auth
